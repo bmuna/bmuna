@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brook Yonas</h1>
-<h3 align="center">Full-stack developer mainly involve in mobile and web application developement</h3>
+<h3 align="center">Experienced full-stack developer specializing in web and mobile application development</h3>
 
 - 🌱 I’m currently learning **Golang, Node.js**
 
