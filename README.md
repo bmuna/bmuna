@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Golang, Node.js**
 
-- 💬 Ask me about **Flutter, react, Golang and vue**
+- 💬 Ask me about **Flutter, react, kotlin and vue**
 
 - 📫 How to reach me **brookyonas@gmail.com**
 
