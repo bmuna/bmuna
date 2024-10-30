@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Brook Yonas</h1>
+<h1 align="center">Hi 👋, I'm Biruk Yonas</h1>
 <h3 align="center">Full-Stack Developer | Web & Mobile Applications</h3>
 
 <p align="center">I'm a mid-level full-stack developer focused on building scalable web and mobile applications. Skilled in modern frameworks with a passion for learning new technologies.</p>
