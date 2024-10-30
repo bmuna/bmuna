@@ -1,6 +1,3 @@
-Here’s an edited, precise, and descriptive version of your GitHub README:
-
----
 
 <h1 align="center">Hi 👋, I'm Brook Yonas</h1>
 <h3 align="center">Full-Stack Developer | Web & Mobile Applications</h3>
