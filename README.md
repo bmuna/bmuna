@@ -24,6 +24,6 @@
 ---
 
 - **Technologies:** Android, Dart, Java, JavaScript, Linux, MySQL, Kotlin
-- **Frameworks:** Angular, Bootstrap, Express, React, Flutter, Vue.js, TypeScript, Node.js
+- **Frameworks:** Bootstrap, Express, React, Flutter, Vue.js, TypeScript, Node.js
 - **Tools:** VScode, Git, Firebase, GitHub, Postman, AWS, CI/CD, Docker, Bash
 - **Additional Experience:** Application Deployment, Database Management, Linux, Team Programming, REST API
