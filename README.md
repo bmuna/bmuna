@@ -3,7 +3,7 @@
 
 <p align="center">I'm a full-stack developer focused on building scalable web and mobile applications. Skilled in modern frameworks with a passion for learning new technologies.</p>
 
-- 🌱 **Currently Learning:** Golang, Node.js
+- 🌱 **Currently Learning:** Golang, Node.js, DevOps, mobile development
 - 💬 **Expertise In:** Flutter, React, Kotlin, Vue.js
 - 📫 **Contact:** brookyonas@gmail.com
 
@@ -24,7 +24,7 @@
 
 ---
 
-- **Technologies:** Android, Angular, Bootstrap, Dart, Express.js, Firebase, Flutter, Git, Go, Java, JavaScript, Linux, Mocha, MySQL, Node.js, PHP, Postman, React, TypeScript, Vue.js, Adobe XD
-- **Frameworks:** Angular, Bootstrap, Express, React, Flutter, Vue.js, Mocha
-- **Tools:** VScode, Git, Firebase, GitHub, Postman, Pypi, Azure, Heroku, CI/CD, Docker, Bash
-- **Additional Experience:** Application Deployment, Database Management, Unit Testing, Linux, Team Programming, Pair Programming, REST API, NoSQL
+- **Technologies:** Android, Dart, Java, JavaScript, Linux, MySQL, Kotlin
+- **Frameworks:** Angular, Bootstrap, Express, React, Flutter, Vue.js, TypeScript, Node.js
+- **Tools:** VScode, Git, Firebase, GitHub, Postman, AWS, Heroku, CI/CD, Docker, Bash
+- **Additional Experience:** Application Deployment, Database Management, Linux, Team Programming, REST API
