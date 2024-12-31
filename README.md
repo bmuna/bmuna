@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Biruk Yonas</h1>
-<h3 align="center">Full-Stack Developer | Web & Mobile Applications</h3>
-
-<p align="center">I'm a full-stack developer focused on building scalable web and mobile applications. Skilled in modern frameworks with a passion for learning new technologies.</p>
+<h1>Hi 👋, I'm Biruk Yonas</h1>
+<!-- <h3 align="center">Full-Stack Developer | Web & Mobile Applications</h3> -->
 
 - 🌱 **Currently Learning:** Golang, Node.js, DevOps, mobile development
 - 💬 **Expertise In:** Flutter, React, Kotlin, Vue.js
