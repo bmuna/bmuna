@@ -24,7 +24,7 @@
 
 ---
 
-- **Technologies:** Web, [Python](https://www.python.org), [Node.js](https://nodejs.org), [TypeScript](https://www.typescriptlang.org)
-- **Frameworks:** [Svelte](https://svelte.dev), [SvelteKit](https://kit.svelte.dev), [Prisma](https://www.prisma.io), [Bootstrap](https://getbootstrap.com), [JQuery](https://jquery.com), [Express](https://expressjs.com), [React](https://reactjs.org), [D3.js](https://d3js.org), [Django](https://www.djangoproject.com), [Flask](https://flask.palletsprojects.com), [Telegram API](https://core.telegram.org/api)
-- **Tools:** [VScode](https://code.visualstudio.com), [GitHub](https://github.com), [Yarn](https://yarnpkg.com), [Git](https://git-scm.com), [NPM](https://www.npmjs.com), [Pypi](https://pypi.org), [Azure](https://azure.microsoft.com), [Heroku](https://www.heroku.com), CI/CD, [Docker](https://www.docker.com), Bash
-- **Additional Experience:** Application Deployment, Database Management, Unit Testing, [Linux](https://www.linux.org), Team Programming, Pair Programming, REST API, NoSQL
+- **Technologies:** Android, Angular, Bootstrap, Dart, Express.js, Firebase, Flutter, Git, Go, Java, JavaScript, Linux, Mocha, MySQL, Node.js, PHP, Postman, React, TypeScript, Vue.js, Adobe XD
+- **Frameworks:** Angular, Bootstrap, Express, React, Flutter, Vue.js, Mocha
+- **Tools:** VScode, Git, Firebase, GitHub, Postman, Pypi, Azure, Heroku, CI/CD, Docker, Bash
+- **Additional Experience:** Application Deployment, Database Management, Unit Testing, Linux, Team Programming, Pair Programming, REST API, NoSQL
